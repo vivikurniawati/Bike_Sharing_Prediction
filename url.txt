@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://bikesharingdicoding1.streamlit.app/
-=======
-https://bikesharingdicoding1.streamlit.app/
->>>>>>> b75b687f4d4e8aff751f85eb2d89a13ac86a47b3
