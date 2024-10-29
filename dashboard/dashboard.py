@@ -8,7 +8,7 @@ st.title("Dashboard Bike Sharing Data Analysis")
 st.write("By: Vivi Kurniawati")
 
 # Dataset
-df = pd.read_csv('dashboard\hour.csv')
+df = pd.read_csv('dashboard/hour.csv')
 
 # Data Wrangling
 df['date'] = pd.to_datetime(df['dteday'])
